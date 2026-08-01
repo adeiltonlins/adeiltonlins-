@@ -40,19 +40,25 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
+      <a href="https://mariaeduardanevess.netlify.app/" target="_blank">
+        <img src="./assets/duda-neves.jpeg" width="100%" alt="Duda Neves Beauty Studio" />
+      </a>
       <h4>💄 Duda Neves Beauty Studio</h4>
       <p>Landing page para maquiadora profissional, com apresentação de pacotes, portfólio e sistema de agendamento por calendário integrado ao WhatsApp.</p>
-      <p>
-        <a href="https://mariaeduardanevess.netlify.app/" target="_blank">🔗 Ver demonstração</a>
-      </p>
+      <a href="https://mariaeduardanevess.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_Ver_demonstração-FF7A5C?style=for-the-badge" />
+      </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
+      <a href="https://adelmocorretor.netlify.app/" target="_blank">
+        <img src="./assets/adelmo-santana.jpeg" width="100%" alt="Adelmo Santana Consultor Imobiliário" />
+      </a>
       <h4>🏠 Adelmo Santana — Consultor Imobiliário</h4>
       <p>Site institucional para corretor de imóveis, com catálogo de imóveis por categoria e formulário de contato que envia direto para o WhatsApp.</p>
-      <p>
-        <a href="https://adelmocorretor.netlify.app/" target="_blank">🔗 Ver demonstração</a>
-      </p>
+      <a href="https://adelmocorretor.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🔗_Ver_demonstração-1D3B6E?style=for-the-badge" />
+      </a>
     </td>
   </tr>
 </table>
